@@ -1,0 +1,7 @@
+1
+~Rich(Me)
+4
+((~Phd(x))|HQ(x))
+(Phd(x)|EE(x))
+((~HQ(x))|Rich(x))
+((~EE(x))|Rich(x))
